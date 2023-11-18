@@ -1,9 +1,19 @@
-
-
-
-
-
 <h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Data Scientist</a>, <a href="https://www.linkedin.com/in/aminmgk/">Programmer</a>
+
+
+#### Technical Skills: Python, SQL
+
+### Education
+- M.S., Computer Science – Cybersecurity, Data Analytics and Artificial Intelligence | MIA Digital University/Universidad a Distancia de Madrid (_January 2025_)
+- B.S., Biology, Chemistry | Virginia Commonwealth University (_May 2019_)
+
+### Work Experience
+**Data Analyst @ USSOCOM CDAO, Zachary Piper Solutions
+- big impact project 1!
+- big impact project 2!
+
+
+
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -32,6 +42,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
