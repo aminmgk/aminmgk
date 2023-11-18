@@ -23,7 +23,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab] (https://github.com/aminmgk/LABURL)
+  - [Active Directory Home Lab] (https://github.com/aminmgk/ActiveDirectoryLab)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
