@@ -24,7 +24,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab] (https://github.com/aminmgk/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/aminmgk/ActiveDirectoryLab)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
