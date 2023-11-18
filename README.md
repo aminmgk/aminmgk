@@ -22,7 +22,7 @@
 
 
 
-<h1>Hi, I'm Mihir! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Programmer</a>, <a href="https://www.linkedin.com/in/aminmgk/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
