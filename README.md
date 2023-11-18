@@ -18,10 +18,12 @@
 
 
 <h2>👨‍💻 Data Science Projects:</h2>
+
 - <b>Python</b>
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
+
 - <b>Python</b>
 
 - <b>SQL</b>
