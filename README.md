@@ -13,21 +13,10 @@
 
 
 
-### Projects
-- sample project
-
-
-
-
-
-
 
 <h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Data Scientist</a>, <a href="https://www.linkedin.com/in/aminmgk/">Programmer</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
@@ -35,6 +24,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
