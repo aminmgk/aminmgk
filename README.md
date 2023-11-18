@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Data Scientist</a>, <a href="https://www.linkedin.com/in/aminmgk/">Programmer</a>
+<h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Data Scientist</a>, <a href="https://www.linkedin.com/in/aminmgk/">Analyst</a>, <a href="https://www.linkedin.com/in/aminmgk/">Cyber Enthusiast</a>
 
 
 #### Technical Skills: Python, SQL
