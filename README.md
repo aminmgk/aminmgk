@@ -46,9 +46,6 @@
 
 
 
-## GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aminmgk&show_icons=true)
 
 ## Most Used Languages
 
