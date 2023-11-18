@@ -21,6 +21,8 @@
 
   - [NLP Analysis](https://github.com/aminmgk/NLP-Insights)
   - [Data Science Pipeline](https://github.com/aminmgk/Data-Science-Pipeline)
+  - [Cloud Based Data Troubleshooting](https://github.com/aminmgk/Cloud-Based-Data-Troubleshooting)
+
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
