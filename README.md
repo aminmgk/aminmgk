@@ -19,7 +19,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Python</b>
+  - [NLP Analysis](https://github.com/aminmgk/NLP-Insights)
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
