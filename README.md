@@ -8,7 +8,8 @@
 - B.S., Biology, Chemistry | Virginia Commonwealth University (_May 2019_)
 
 ### Certifications
-  - [Springboard Data Analytics Bootcamp](https://github.com/aminmgk/ActiveDirectoryLab)
+  - [Google Advanced Data Analytics] (In Progress)
+  - [Springboard Data Analytics Bootcamp] (tbd)
   - [Udemy Machine Learning Bootcamp - Hands On Python & R in Data Science](https://www.udemy.com/certificate/UC-6238a1b4-a578-46c4-9867-edb088cb08c0/)
   - [Udemy Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-9d16b8e8-658b-43bf-94d6-05d400fd95d5/)
 
