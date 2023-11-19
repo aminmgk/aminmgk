@@ -24,7 +24,7 @@
   - [Cloud Based Data Troubleshooting](https://github.com/aminmgk/Cloud-Based-Data-Troubleshooting)
   - [Model Architecture Research](https://github.com/aminmgk/Model-Architecture-Research)
   - [Machine Learning Visualization](https://github.com/aminmgk/ML-Visualization)
-  - [Trend Analysis in Data Science]()
+  - [Trend Analysis in Data Science](https://github.com/aminmgk/Trend-Analysis-DS)
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
