@@ -27,7 +27,7 @@
   - [Trend Analysis in Data Science](https://github.com/aminmgk/Trend-Analysis-DS)
   - [NLP Text Summarization](https://github.com/aminmgk/NLP-Text-Summarization)
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>📊 Data Analysis Projects:</h2>
 
 - <b>Python</b>
 
