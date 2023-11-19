@@ -4,7 +4,8 @@
 #### Technical Skills: Python, SQL
 
 ### Education
-- M.S., Computer Science – Cybersecurity, Data Analytics and Artificial Intelligence | MIA Digital University/Universidad a Distancia de Madrid (_January 2025_)
+- M.S., Computer Science (*Dual Degree*) – Cybersecurity, Data Analytics and Artificial Intelligence | MIA Digital University (_January 2025_)
+- M.S., Computer Science (*Dual Degree*)– Cybersecurity, Data Analytics and Artificial Intelligence | Universidad a Distancia de Madrid (_January 2025_)
 - B.S., Biology, Chemistry | Virginia Commonwealth University (_May 2019_)
 
 ### Certifications
