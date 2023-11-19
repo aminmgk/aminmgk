@@ -22,6 +22,9 @@
   - [NLP Analysis](https://github.com/aminmgk/NLP-Insights)
   - [Data Science Pipeline](https://github.com/aminmgk/Data-Science-Pipeline)
   - [Cloud Based Data Troubleshooting](https://github.com/aminmgk/Cloud-Based-Data-Troubleshooting)
+  - [Model Architecture Research](https://github.com/aminmgk/Model-Architecture-Research)
+  - [Machine Learning Visualization](https://github.com/aminmgk/ML-Visualization)
+  - [Trend Analysis in Data Science]()
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
