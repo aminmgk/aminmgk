@@ -17,7 +17,7 @@
 
 
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>🤖 Data Science Projects:</h2>
 
   - [NLP Analysis](https://github.com/aminmgk/NLP-Insights)
   - [Data Science Pipeline](https://github.com/aminmgk/Data-Science-Pipeline)
