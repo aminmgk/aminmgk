@@ -1,8 +1,6 @@
 <h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Data Scientist</a>, <a href="https://www.linkedin.com/in/aminmgk/">Analyst</a>, <a href="https://www.linkedin.com/in/aminmgk/">Cyber Enthusiast</a>
 
 
-#### Technical Skills: Python, SQL
-
 ### Education
 - M.S., Computer Science (*Dual Degree*) – Cybersecurity, Data Analytics and Artificial Intelligence | MIA Digital University (_January 2025_)
 - M.S., Computer Science (*Dual Degree*)– Cybersecurity, Data Analytics and Artificial Intelligence | Universidad a Distancia de Madrid (_January 2025_)
