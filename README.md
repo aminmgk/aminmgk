@@ -13,7 +13,7 @@
   - [Udemy Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-9d16b8e8-658b-43bf-94d6-05d400fd95d5/)
 
 
-
+<h2>⭐ Cross Domain Projects:</h2>
 
 
 <h2>🤖 Data Science Projects:</h2>
