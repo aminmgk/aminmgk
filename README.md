@@ -15,6 +15,8 @@
 
 <h2>⭐ Cross Domain Projects:</h2>
 
+  - [Cybersecurity Threat Detection Analysis](https://github.com/aminmgk/Cybersecurity-Threat-Detection-Analysis)
+
 
 <h2>🤖 Data Science Projects:</h2>
 
