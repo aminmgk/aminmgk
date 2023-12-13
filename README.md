@@ -7,8 +7,8 @@
 - B.S., Biology, Chemistry | Virginia Commonwealth University (_May 2019_)
 
 ### Certifications
-  - [JIRA Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
-  - [Confluence Fundamentals](https://university.atlassian.com/student/award/zWDQDYKVziWFiorGAknigpHg)
+  - [Atlassian - JIRA Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
+  - [Atlassian - Confluence Fundamentals](https://university.atlassian.com/student/award/zWDQDYKVziWFiorGAknigpHg)
   - [Google Advanced Data Analytics] (In Progress)
   - [Springboard Data Analytics Bootcamp] (Pending)
   - [Udemy Machine Learning Bootcamp - Hands On Python & R in Data Science](https://www.udemy.com/certificate/UC-6238a1b4-a578-46c4-9867-edb088cb08c0/)
