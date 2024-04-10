@@ -32,9 +32,10 @@
 
 <h2>📊 Data Analysis Projects:</h2>
 
-- [HR Analysis](https://github.com/aminmgk/HR_Analytics)
+- <b>Power BI</b>
+  - [HR Analysis](https://github.com/aminmgk/HR_Analytics)
 
-- <b>SQL</b>
+- <b>Tableau</b>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
