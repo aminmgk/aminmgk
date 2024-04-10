@@ -34,6 +34,7 @@
 
 - <b>Power BI</b>
   - [HR Analysis](https://github.com/aminmgk/HR_Analytics)
+  - [Spotify Analysis]
 
 - <b>Tableau</b>
 
