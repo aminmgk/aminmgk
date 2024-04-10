@@ -32,7 +32,7 @@
 
 <h2>📊 Data Analysis Projects:</h2>
 
-- <b>Python</b>
+- [HR Analysis](https://github.com/aminmgk/HR_Analytics)
 
 - <b>SQL</b>
 
