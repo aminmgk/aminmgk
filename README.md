@@ -46,7 +46,7 @@
 
 <h2>☁️ Cloud Computing Projects:</h2>
 
-- SAAS Automation Builder
+- <b>SAAS Automation Builder<b>
 
 <h2>🛠️ Software Development Projects:</h2>
 
