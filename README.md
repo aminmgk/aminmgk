@@ -44,6 +44,9 @@
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/aminmgk/ActiveDirectoryLab)
 
+<h2>☁️ Cloud Computing Projects:</h2>
+
+- SAAS Automation Builder
 
 <h2>🛠️ Software Development Projects:</h2>
 
