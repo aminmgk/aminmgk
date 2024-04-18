@@ -10,6 +10,7 @@
   - [Atlassian - Jira Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
   - [Atlassian - Confluence Fundamentals](https://university.atlassian.com/student/award/zWDQDYKVziWFiorGAknigpHg)
   - [Google Advanced Data Analytics] (In Progress)
+  - [Google Cybersecurity] (In Progress)
   - [Springboard Data Analytics Bootcamp] (Pending)
   - [Udemy Machine Learning Bootcamp - Hands On Python & R in Data Science](https://www.udemy.com/certificate/UC-6238a1b4-a578-46c4-9867-edb088cb08c0/)
   - [Udemy Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-9d16b8e8-658b-43bf-94d6-05d400fd95d5/)
