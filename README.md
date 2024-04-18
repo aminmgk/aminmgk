@@ -7,7 +7,7 @@
 - B.S., Biology, Chemistry | Virginia Commonwealth University (_May 2019_)
 
 ### Certifications
-  - [Atlassian - JIRA Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
+  - [Atlassian - Jira Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
   - [Atlassian - Confluence Fundamentals](https://university.atlassian.com/student/award/zWDQDYKVziWFiorGAknigpHg)
   - [Google Advanced Data Analytics] (In Progress)
   - [Springboard Data Analytics Bootcamp] (Pending)
