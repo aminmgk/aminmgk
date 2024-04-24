@@ -4,7 +4,7 @@
 ### Education
 - M.S., Computer Science (*Dual Degree*) – Cybersecurity, Data Analytics and Artificial Intelligence | MIA Digital University (_January 2025_)
 - M.S., Computer Science (*Dual Degree*)– Cybersecurity, Data Analytics and Artificial Intelligence | Universidad a Distancia de Madrid (_January 2025_)
-- B.S., Biology, Chemistry | Virginia Commonwealth University (_May 2019_)
+- B.S., Biology, Chemistry | Virginia Commonwealth University
 
 ### Certifications
   - [Atlassian - Jira Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
