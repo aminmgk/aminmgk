@@ -7,8 +7,8 @@
 - B.S., Biology, Chemistry | Virginia Commonwealth University
 
 ### Certifications
-  - [Atlassian - Jira Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
   - [Atlassian - Confluence Fundamentals](https://university.atlassian.com/student/award/zWDQDYKVziWFiorGAknigpHg)
+  - [Atlassian - Jira Fundamentals](https://university.atlassian.com/student/award/tJCnGi2syRDcoNrbecuy9M1M)
   - [Google Advanced Data Analytics](https://coursera.org/share/e9163c94350c393fb45d463d074d7ee7)
   - [Google Cybersecurity](https://coursera.org/share/9f35915bf223eee5a25bef673e6adafe)
   - [IBM Database Engineering] (In Progress)
