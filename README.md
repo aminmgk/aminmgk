@@ -13,7 +13,7 @@
   - [Google Cybersecurity](https://coursera.org/share/9f35915bf223eee5a25bef673e6adafe)
   - [IBM Database Engineering] (In Progress)
   - [Meta Database Engineer] (In Progress)
-  - [Springboard Data Analytics Bootcamp] (Available upon Request)
+  - [Springboard Data Analytics Bootcamp] (_Available upon Request_)
   - [Udemy Machine Learning Bootcamp - Hands On Python & R in Data Science](https://www.udemy.com/certificate/UC-6238a1b4-a578-46c4-9867-edb088cb08c0/)
   - [Udemy Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-9d16b8e8-658b-43bf-94d6-05d400fd95d5/)
 
