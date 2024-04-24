@@ -47,21 +47,20 @@
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/aminmgk/ActiveDirectoryLab)
 
-<h2>☁️ Cloud Computing Projects:</h2>
+<h2>☁️ Cloud Computing & Software Development Projects:</h2>
 
 - [SaaS Website Builder](https://github.com/aminmgk/SaaS-Website-Builder)
 - [SaaS Automation Builder](https://github.com/aminmgk/SaaS-Automation-Builder)
-
-
-<h2>🛠️ Software Development Projects:</h2>
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- [Full Stack Web App - Image Analysis Middleware] (React, NodeJS, Azure, and Machine Learning Components)
   <!-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
+
+
+
+<!-- <h2>🛠️ Software Development Projects:</h2>
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/aminmgk/Jwipe.PowerShell)
   <!-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) -->
-- <b>Python</b>
-  <!-- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
+  <!-- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) --!>
 
