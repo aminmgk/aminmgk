@@ -41,18 +41,19 @@
 
 - <b>Tableau</b>
 
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/aminmgk/ActiveDirectoryLab)
-
 <h2>☁️ Cloud Computing & Software Development Projects:</h2>
 
 - [SaaS Website Builder](https://github.com/aminmgk/SaaS-Website-Builder)
 - [SaaS Automation Builder](https://github.com/aminmgk/SaaS-Automation-Builder)
 - [Full Stack Web App - Image Analysis Middleware] (React, NodeJS, Azure, and Machine Learning Components)
   <!-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Active Directory Home Lab](https://github.com/aminmgk/ActiveDirectoryLab)
+
+
 
 
 
