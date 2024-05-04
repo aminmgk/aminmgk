@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000BF,100:800080BF&height=200&section=header&text=Hi%2C%20I%27m%20Mihir%21-nl-Data%20Scientist%2C%20Analyst%2C%20Cyber%20Enthusiast&fontSize=40&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1E90FF&height=250&section=header&text=Hi%2C%20I%27m%20Mihir%21-nl-Data%20Scientist%2C%20Analyst%2C%20Cyber%20Enthusiast&fontSize=35&fontColor=FFE4E1&stroke=D8BFD8&strokeWidth=0.5&animation=fadeIn&fontAlignY=15)
 
 
 
