@@ -20,12 +20,25 @@
   - [Udemy Machine Learning Bootcamp - Hands On Python & R in Data Science](https://www.udemy.com/certificate/UC-6238a1b4-a578-46c4-9867-edb088cb08c0/)
 
 
-<h2>⭐ Cross Domain Projects:</h2>
+---
+
+
+<!-- Section break for clear separation -->
+
+
+
+<h2 align="center">Project Portfolio</h2>
+
+<!-- Space after section break -->
+
+
+
+### ⭐ Cross Domain Projects:
 
   - [Cybersecurity Threat Detection Analysis](https://github.com/aminmgk/Cybersecurity-Threat-Detection-Analysis)
 
 
-<h2>🤖 Data Science Projects:</h2>
+### 🤖 Data Science Projects:
 
   - [NLP Analysis](https://github.com/aminmgk/NLP-Insights)
   - [Data Science Pipeline](https://github.com/aminmgk/Data-Science-Pipeline)
@@ -35,7 +48,7 @@
   - [Trend Analysis in Data Science](https://github.com/aminmgk/Trend-Analysis-DS)
   - [NLP Text Summarization](https://github.com/aminmgk/NLP-Text-Summarization)
 
-<h2>📊 Data Analysis Projects:</h2>
+### 📊 Data Analysis Projects:
 
 - <b>Power BI</b>
   - [HR Analysis](https://github.com/aminmgk/HR_Analytics)
@@ -43,14 +56,14 @@
 
 - <b>Tableau</b>
 
-<h2>☁️ Cloud Computing & Software Development Projects:</h2>
+### ☁️ Cloud Computing & Software Development Projects:
 
 - [SaaS Website Builder](https://github.com/aminmgk/SaaS-Website-Builder)
 - [SaaS Automation Builder](https://github.com/aminmgk/SaaS-Automation-Builder)
 - [Full Stack Web App - Image Analysis Middleware] (React, NodeJS, Azure, and Machine Learning Components)
   <!-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i> -->
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+### 👨‍💻 Cybersecurity Projects:
 
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/aminmgk/ActiveDirectoryLab)
