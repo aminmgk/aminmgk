@@ -1,4 +1,6 @@
-<h1>Hi, I'm Mihir! <br/><a href="https://github.com/aminmgk">Data Scientist</a>, <a href="https://www.linkedin.com/in/aminmgk/">Analyst</a>, <a href="https://www.linkedin.com/in/aminmgk/">Cyber Enthusiast</a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000BF,100:800080BF&height=200&section=header&text=Hi%2C%20I%27m%20Mihir%21-nl-Data%20Scientist%2C%20Analyst%2C%20Cyber%20Enthusiast&fontSize=40&fontColor=FFFFFF)
+
+
 
 
 ### Education
